@@ -1,2 +1,2 @@
 # crypto-tracker
-Personalized Crypto Holdings Tracker
+Personalized Crypto Holdings Manager

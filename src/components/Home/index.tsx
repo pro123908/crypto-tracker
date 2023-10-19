@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <Box className={classes.container}>
       <Typography fontSize={42} fontWeight={700}>
-        Crypto Tracker
+        Crypto Manager
       </Typography>
     </Box>
   );
